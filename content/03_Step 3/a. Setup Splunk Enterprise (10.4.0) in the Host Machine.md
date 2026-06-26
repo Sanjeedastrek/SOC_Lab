@@ -1,0 +1,1 @@
+At the time of doing this lab, Splunk 10.4.0 was the newest Enterprise version. The difference between Splunk Cloud and Enterprise is that in Cloud, data resides in the cloud whereas in Enterprise it stays locally. Download Splunk Enterprise from https://www.splunk.com/en_us/download/splunk-enterprise.html and follow instructions accordingly.
