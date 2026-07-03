@@ -8,7 +8,6 @@ index = main
 sourcetype = XmlWinEventLog:Microsoft-Windows-Sysmon/Operational
 renderXml = true
 current_only = 0
-
 ```
 
 Paste it in outputs.conf in the same location:

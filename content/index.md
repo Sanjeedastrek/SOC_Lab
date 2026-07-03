@@ -8,6 +8,6 @@ The main goal was to understand how endpoint logs are collected and analyzed in 
 
 The diagram below shows our SOC lab setup:
 
-**<img src="Assets/Step_1_architecture.png" style="border: 2px solid green; padding: 10px;border-radius:20px;">
+<img src="Assets/Step_1_architecture.png" style="border: 2px solid green; padding: 10px;border-radius:20px;">
 <center>SOC Lab Architecture</center>
 
