@@ -7,5 +7,5 @@ After installation is complete, check whether the forwarder is installed. In ord
 >During this installation I came across 2 choices, using deployment server or using receiving indexer. Receiving Indexer: The forwarder sends data directly to a specific indexer using its IP address and port (default 9997). This is a simple, straightforward setup, best for when you have just one or a few forwarders. Configuration stays local on the forwarder itself.
 >Deployment Server: A centralized tool that pushes configurations out to multiple universal forwarders automatically. All the forwarders pull their configs from this one server. Best for managing many forwarders.
 
-
+#UniversalForwarder #Splunk
 

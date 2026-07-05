@@ -20,3 +20,5 @@ Event
 
 **<img src="Assets/Step_7_Sentinel.png" style="border: 2px solid green; padding: 10px;border-radius:20px;">
 <center>Like Splunk, Sentinel also retrieved 16 rows of info</center>
+
+#Splunk #Sentinel

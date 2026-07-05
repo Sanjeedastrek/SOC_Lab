@@ -10,3 +10,5 @@ Command and Control
 The compromised Windows system made an outbound network connection to the attacker’s Kali Linux machine on port 4444,  corresponding to MITRE ATT&CK technique Command and Control (TA0011), technique Application Layer Protocol (T1071) and sub-technique Application Layer Protocol: Web Protocols (T1071/001). The PS process used a standard TCP connection to communicate with the attacker’s server, allowing remote control of the target system.
 
 Because we've access to the system as owners, we can't add the Initial Access tactic. However, in real life this tactic could be the first place where MITRE mapping would make sense. Not every technique has been broken down into sub-techniques because some methods are straightforward or broad enough that a single classification is enough.
+
+#MITRE

@@ -18,3 +18,4 @@ defaultGroup = splunk_indexer
 server = 192.168.56.1:9997
 [tcpout-server://192.168.56.1:9997]
 ```
+#Microsft #inputs.conf #outputs.conf

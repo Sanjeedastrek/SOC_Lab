@@ -8,3 +8,5 @@ Search Data Collection Rule (DCR) in the search space, & create a new DCR. I nam
 At last, the DCR was created successfully. Remember, the rule is found under Monitor:
 
 <img src="Assets/Step_5_dcr.png" style="border: 2px solid green; padding: 10px;border-radius:20px;">
+
+#Sentinel

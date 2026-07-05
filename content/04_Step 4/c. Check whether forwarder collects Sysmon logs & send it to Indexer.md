@@ -122,3 +122,4 @@ After giving the Forwarder sufficient privileges, it was able to read the Sysmon
 **<img src="Assets/Step_4_Splunk.png" style="border: 2px solid green; padding: 10px;border-radius:20px;">
 <center>This is how event logs appear in Splunk search as xml</center>
 
+#Troubleshooting #UniversalForwarder

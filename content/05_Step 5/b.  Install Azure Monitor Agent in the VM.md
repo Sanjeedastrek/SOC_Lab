@@ -11,3 +11,5 @@ Open Arc in the search bar, then search for machines at the left, then create it
 
 >[!NOTE]
 >Do you know where the agent is installed in your local vm? C:\program files\azureconnectedmachineagent\
+
+#Azure

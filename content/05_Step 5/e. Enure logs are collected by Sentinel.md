@@ -24,3 +24,5 @@ So it is, "Run the Azure agent program and show me its status." or just simply u
 5. Verify logs are coming to the workspace. Sentinel uses UTC timezone, which is different from ours. When comparing logs across systems with different timezones, always calculate the offset carefully.
    
 **<img src="Assets/Step_5_Sentiel_Logs.png" style="border: 2px solid green; padding: 10px;border-radius:20px;"><center>This shows where logs are expected to be. Event is the name of the table</center>
+
+#Sentinel

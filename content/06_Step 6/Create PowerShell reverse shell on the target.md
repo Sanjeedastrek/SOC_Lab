@@ -6,3 +6,4 @@ Now we'll try to create communication between our attacker (Kali) and target (Wi
 <img src="Assets/step_6_revshell.png" style="border: 2px solid green; padding: 10px;border-radius:20px;">
 <center>We got a reverse shell effortlessly. I also ran whoami and hostname command in this shell</center>
 
+#PowerShell

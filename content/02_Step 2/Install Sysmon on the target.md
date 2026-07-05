@@ -3,4 +3,7 @@ Download it from the Sysinternals site, unzip it, and open CMD as Admin. You may
 
 `sysmon.exe -accepteula -i sysmonconfig-export.xml
 `
+
 To check whether Sysmon is collecting logs, open Event Viewer, then go to Applications and Services Logs > Microsoft > Windows > Sysmon > Operational. You can also clear them by right-clicking on Operational and choosing Clear Log. You may want to control the log size. Open Properties by right-clicking on Operational, and control it from there.
+
+#Sysmon #Sysinternals
