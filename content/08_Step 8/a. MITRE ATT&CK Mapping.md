@@ -1,4 +1,4 @@
-Let's classify detected attack behavior using MITRE ATT&CK to standardize findings and improve reporting.
+Let's classify detected attack behaviour using MITRE ATT&CK to standardize findings and improve reporting.
 
 Defense Impairment 
 In this lab, we observed the tactic of Defense Impairment (TA0112) by turning off Windows Defender’s real-time protection before running the payload. This behavior maps to MITRE ATT&CK technique T1685: Disable or Modify Tools. By turning off Defender, we bypassed the system’s built-in security controls and execute the malicious PS script without being blocked or detected by Windows Defender, leading us to the next tactic Execution.
