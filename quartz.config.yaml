@@ -82,7 +82,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 30
+      priority: 10
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
