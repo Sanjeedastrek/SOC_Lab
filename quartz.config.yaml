@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sanjeedastrek.github.io/SOC_Lab
+  baseUrl: sanjeedastrek.github.io/SOC_Lab/
   ignorePatterns:
     - private
     - templates
